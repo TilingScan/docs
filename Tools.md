@@ -6,7 +6,7 @@ By clicking on Visualize chromosome and selecting your chromosome of interest, y
 To do so, you must set the desired Gauss filter repetition times (default is 3 times). 
 The more times the filter is applied, the smoother the signal profile will look.
 
-![](http://tilingscan.uv.es/img/tutorial/2.png)
+![](http://tilingscan.uv.es/img/tutorial/3.png)
 
 So as to facilitate the visualization, the whole chromosome length is split in sections. 
 You can scroll left/right to move along the section, as well as to go back and forth to the different sections by selecting them in the pull down menu (bottom, left). 
@@ -19,7 +19,7 @@ You can download all generated images, either individually or all of them at onc
 
 By clicking on Visualize gene you can visualize the expression of a specific gene. To do so, you have to select:
 
-![](http://tilingscan.uv.es/img/tutorial/4.png)
+![](http://tilingscan.uv.es/img/tutorial/5.png)
 
 - The chromosome in which the gene is encoded (Select chromosome).
 - The systematic identifier of the gene of interest (ORF name) in Select gene.
@@ -52,7 +52,7 @@ For all the these regions, TilingScan will automatically register the following 
 
 To start your search, you have to select the following features:
 
-![](http://tilingscan.uv.es/img/tutorial/7.png)
+![](http://tilingscan.uv.es/img/tutorial/8.png)
 
 - **Chromosome**: Chromosome on which the search will be made.
 - **Strand**: Strand on which the search will be made.
